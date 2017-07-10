@@ -1,0 +1,16 @@
+% for site_name, site_results in query_report.iteritems():
+  Site: {{ site_name }}
+  % for query, pages in site_results.iteritems():
+    Query: {{! query }}
+    % for page in pages:
+      ----------------------------------------------
+      Page: {{ page['page_number'] }}
+      Clicks:
+      % for clicked_address in page['clicked_addresses']:
+        {{ clicked_address['search_result_index'] + 1 }}  {{clicked_address['link_address']}}
+      % end
+    % end
+    ------------------------------------------------
+
+  % end
+% end

@@ -1,0 +1,31 @@
+# prepend '#' to ignore line
+# empty lines are ignored
+
+results per page: 100
+number of pages: 4
+
+site: wecharge.me
+wecharge
+wecharge about
+wecharge partners
+
+wecharge singapore
+wecharge indonesia
+wecharge malaysia
+wecharge thailand
+wecharge south east asia
+
+wecharge power bank sharing
+wecharge install app
+singapore power bank
+indonesia power bank
+malaysia power bank
+thailand power bank
+
+site: singaporego.com
+singaporego
+singaporego news
+singaporego food
+singaporego promotions
+singaporego lifestyle
+singaporego local
